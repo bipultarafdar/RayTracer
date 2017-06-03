@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\bipul\onedrive\documents\visual studio 2015\projects\pesonalprojects\raytracing\raytracerfinal\source.cpp(69): warning C4101: 'shininess': unreferenced local variable
+  RayTracerFinal.vcxproj -> C:\Users\bipul\OneDrive\Documents\Visual Studio 2015\Projects\PesonalProjects\RayTracing\x64\Debug\RayTracerFinal.exe
+  RayTracerFinal.vcxproj -> C:\Users\bipul\OneDrive\Documents\Visual Studio 2015\Projects\PesonalProjects\RayTracing\x64\Debug\RayTracerFinal.pdb (Partial PDB)
